@@ -1,1 +1,0 @@
-Calculator is a REST web service using Node.js to perform simple operations of add,subtract,multiple,divide.
